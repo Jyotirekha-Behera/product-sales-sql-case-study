@@ -5,68 +5,25 @@ In this project, multiple SQL queries were written to analyze sales, profit, mar
 
 Various SQL operations were performed such as data retrieval, aggregation, joining tables, ranking, conditional analysis, and data manipulation.
 
-SQL Concepts and Functions Used
 
-Aggregate Functions
+SQL Concepts Used
 
-SUM()
+Aggregate Functions: SUM(), AVG(), MIN(), MAX(), COUNT()
 
-AVG()
+Filtering and Conditions: WHERE, BETWEEN, CASE WHEN
 
-MIN()
+Sorting and Grouping: ORDER BY, GROUP BY, HAVING
 
-MAX()
+Joins: INNER JOIN
 
-COUNT()
+Window Functions: DENSE_RANK()
 
-Filtering and Conditions
+Advanced SQL: ROLLUP, UNION, INTERSECT
 
-WHERE
+Database Objects: STORED PROCEDURE, USER DEFINED FUNCTION
 
-BETWEEN
+Data Manipulation: UPDATE, DELETE
 
-CASE WHEN
+String Functions: SUBSTRING(), ASCII()
 
-Sorting and Grouping
-
-ORDER BY
-
-GROUP BY
-
-HAVING
-
-Joins
-
-INNER JOIN
-
-Window Functions
-
-DENSE_RANK()
-
-Advanced SQL
-
-ROLLUP
-
-UNION
-
-INTERSECT
-
-Database Objects
-
-STORED PROCEDURE
-
-USER DEFINED FUNCTION
-
-Data Manipulation
-
-UPDATE
-
-DELETE
-
-String and Numeric Functions
-
-SUBSTRING()
-
-ASCII()
-
-This project helps in strengthening SQL skills required for Data Analyst roles, including working with relational tables, performing data analysis, and generating insights from structured datasets.
+This project helps in strengthening SQL skills required for data analysis and working with relational databases.
