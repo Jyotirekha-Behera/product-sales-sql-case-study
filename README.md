@@ -26,4 +26,4 @@ Data Manipulation: UPDATE, DELETE
 
 String Functions: SUBSTRING(), ASCII()
 
-This project helps in strengthening SQL skills required for data analysis and working with relational databases.
+project helps in strengthening SQL skills required for data analysis and working with relational databases.
